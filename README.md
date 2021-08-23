@@ -5,4 +5,6 @@ Press Coverage of Jammu Genocide after 1947
 
 https://www.gettyimages.com/detail/news-photo/first-war-pictures-out-of-kashmir-mirpur-india-this-is-one-news-photo/517367166?adppopup=true
 
-![Times of London](https://github.com/JammuGenocide/PressCoverage/blob/main/mirpur_masasace_getty.jpeg)
+![Getty Mirpur](https://github.com/JammuGenocide/PressCoverage/blob/main/mirpur_masasace_getty.jpeg)
+
+![Times of London](https://github.com/JammuGenocide/PressCoverage/blob/main/The%20London%20Times%2C%20August%2010%2C%201948.jpeg)
