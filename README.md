@@ -7,4 +7,6 @@ https://www.gettyimages.com/detail/news-photo/first-war-pictures-out-of-kashmir-
 
 ![Getty Mirpur](https://github.com/JammuGenocide/PressCoverage/blob/main/mirpur_masasace_getty.jpeg)
 
-![Times of London](https://github.com/JammuGenocide/PressCoverage/blob/main/The%20London%20Times%2C%20August%2010%2C%201948.jpeg)
+![Times of London, 1948](https://github.com/JammuGenocide/PressCoverage/blob/main/The%20London%20Times%2C%20August%2010%2C%201948.jpeg)
+
+![The Daily Herald, 1947](https://github.com/JammuGenocide/PressCoverage/blob/main/BL_0000681_19471111_028_0001.pdf)
