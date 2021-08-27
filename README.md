@@ -9,4 +9,4 @@ https://www.gettyimages.com/detail/news-photo/first-war-pictures-out-of-kashmir-
 
 ![Times of London](https://github.com/JammuGenocide/PressCoverage/blob/main/The%20London%20Times%2C%20August%2010%2C%201948.jpeg)
 
-![The Daily Herald]()
+![The Daily Herald](https://github.com/JammuGenocide/PressCoverage/blob/main/tuesday11November1947.png)
